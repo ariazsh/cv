@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+body {
+    background-color: blanchedalmond;
+}
+
+li {
+    list-style: none;
+    padding: 3px 0 0 10px;
+    margin: 5px;
+    
+    border-color: black;
+    border-bottom: 3px solid;
+    border-radius: 60%;
+    border-collapse: inherit;
+    
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 4px #aaa;
+
+}
+li:hover{
+    background-color: whitesmoke;
+}
+
+footer a:hover {
+    text-decoration: none;
+    background-color: rgb(130, 238, 233);
+}
+
+
+h3, h4{
+    font-family: cursive;
+    
+
+}
+
+#figure {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.clear {
+    clear: both;
+    position: relative;
+    top: 100px;
+
+}
+#email {
+    font-family: 'Stick No Bills';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+}
+
+#link {
+    position: relative;
+    top: 10px;
+}

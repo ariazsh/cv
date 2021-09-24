@@ -1,0 +1,10 @@
+Eftersom jag är en nybörjare så tänkte jag lära mig grunderna i css därför jag inte har fokuserad på att hur fin det ska vara eller vad för texter jag har skrivit utan jag har lagt fokus på hur jag ska lära mig från scratch.
+jag började med HTML sidan och vad jag ska ha för element och texter.
+sedan ändrade jag på bakrundsfärgen.
+listor har ändrat på, deras avstånd och gav dem border med radius 60% så att den blir lite kurvig dessutom importerade en länk där ändrar på handstilen.
+sedan använde jag mig av hover så att när musen går över listor så ska de ändra bakgrundsfärgen.
+texten längs upp har cursive style.
+jag har även gett bilden en id så att jag kan ändra funsktionen och den ska floata på vänstra sidan, men problemet var att min länk och gmail adress flyttades till höger av bilden men jag ville att det ska vara under bilden därför jag gav footer en class och använde mig av clear both.
+sedan gav jag länken och adressen position relative så att jag flyttar dem läng ner på hemsidan.
+jag har också importerat en länk för att ändra på mail-adressens stil
+
